@@ -1,0 +1,45 @@
+{
+  "name": "test2",
+  "description": "Blank Process",
+  "main": "Main.xaml",
+  "dependencies": {
+    "BalaReva.DirFileSize.Activities": "[2019.1.1]",
+    "Google.Apis": "[1.48.0]",
+    "Google.Apis.Auth": "[1.48.0]",
+    "Google.Apis.Gmail.v1": "[1.48.0.2027]",
+    "UiPath.Excel.Activities": "[2.9.0-preview]",
+    "UiPath.Form.Activities": "[1.1.5]",
+    "UiPath.FormActivityLibrary": "[1.1.4]",
+    "UiPath.FormActivityLibrary.Contracts": "[1.1.1]",
+    "UiPath.GSuite.Activities": "[1.5.1]",
+    "UiPath.Mail.Activities": "[1.9.0-preview]",
+    "UiPath.System.Activities": "[20.6.1-preview]",
+    "UiPath.UIAutomation.Activities": "[20.6.0-preview]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "20.6.0.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "isPausable": true,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "fileInfoCollection": []
+  },
+  "expressionLanguage": "VisualBasic"
+}

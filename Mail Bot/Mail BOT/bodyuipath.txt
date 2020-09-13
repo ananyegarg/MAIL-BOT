@@ -1,0 +1,7 @@
+Dear {0}
+
+We received data from {1} branch of {2} stream
+THis is A test Bot 
+Only send to test our new
+
+Sorry for you inconvenience
